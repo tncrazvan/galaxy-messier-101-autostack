@@ -20,3 +20,4 @@ Given images taken from a telescope pointed at m-101 (messier 101), this project
 |Description              |Value
 |-------------------------|----------------------------------|
 | Galaxy M-101 coordinates| RA 14h 3m 13s \| Dec +54° 20′ 57″|
+| Starry Night SDK        | [Windows download](http://www.siennasoft.com/updates/StarryNightPluginSDK-Windows.zip), [MAC Download](http://www.siennasoft.com/updates/StarryNightPluginSDK-Mac.zip) |
