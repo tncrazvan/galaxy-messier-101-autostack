@@ -7,7 +7,16 @@ Given images taken from a telescope pointed at m-101 (messier 101), this project
 - ✔ = Done
 
 ## Roadmap
-- 🔆 Transfer raw bit maps (raw images) to the server
-- ❌ Remote control of telescope (Celestron NextStar 960SLT)
-- ❌ Display feedback onto a UI (developed in Svelte)
-- ❌ Provide an easy and detailed way to adjust bit maps (including alpha bits)
+
+|Feature                                                                    |Status |Priority|
+|---------------------------------------------------------------------------|-------|--------|
+|Transfer raw bit maps (raw images) to the server                           |🔆     | High  |
+|Remote control of telescope (Celestron NextStar 960SLT)                    |❌     | Low   |
+|Display feedback onto a UI (developed in Svelte)                           |❌     | High  |
+|Provide an easy and detailed way to adjust bit maps (including alpha bits) |❌     | Medium|
+
+## Details
+
+|Description              |Value
+|-------------------------|----------------------------------|
+| Galaxy M-101 coordinates| RA 14h 3m 13s \| Dec +54° 20′ 57″|
